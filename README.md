@@ -2,8 +2,7 @@
 
 A simple web application that generates random quotes from various authors. The app fetches quotes from an API and displays them in an interactive UI.
 
-## Demo
-You can see a live demo of this project here. *(Provide the live demo link here)*
+
 
 ## Features
 - Fetches random quotes and displays them with the author's name.
